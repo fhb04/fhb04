@@ -15,7 +15,7 @@
 - *All of these were made with Python*
 
 ### Where can I contact you?
-Glad you asked, you can contact me via Discord. My Discord account ID is 871131144626790420. Why am I putting the ID and not the name and tag? Well, I change my name and tag very often, so this is the easiest way for you to out.
+Glad you asked, you can contact me via Discord. My Discord account ID is 871131144626790420. Why am I putting the ID and not the name and tag? Well, I change my name and tag very often, so this is the easiest way for you to reach out to me.
 
 ### Can you help me with something?
 I am open to questions and can provide help on a project if possible. Please note that I am only experienced in the topics listed under "competencies." Regardless, still message me, even if it isn't there. Maybe I'll offer some advice or maybe I'll learn a thing or two myself.
